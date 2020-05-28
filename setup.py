@@ -17,7 +17,7 @@ with open("README.md") as f:
     long_description = f.read()
 
 setup(
-    name='pyknp',
+    name='unofficial-pyknp',
     version=pyknp_version,
     maintainer=__author__,
     maintainer_email=__email__,
